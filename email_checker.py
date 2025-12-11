@@ -35,7 +35,9 @@ email_list = [
     "test@yandex.ru",
     "fake@nonexistent123.com",
     "user@example.com",
-    "admin@localhost"
+    "admin@localhost",
+    "test@www.google.com",
+    "mail@org"
 ]
 
 check_mx_records(email_list)
